@@ -1,3 +1,4 @@
+//тест класса львов
 import com.example.Feline;
 import com.example.Lion;
 

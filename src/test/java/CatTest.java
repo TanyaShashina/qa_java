@@ -1,6 +1,7 @@
 import com.example.Cat;
 import com.example.Feline;
 
+//тест класса кошек
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
