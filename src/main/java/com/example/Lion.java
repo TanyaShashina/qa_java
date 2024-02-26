@@ -6,6 +6,7 @@ public class Lion {
 
     boolean hasMane;
 
+    //изменение в базовом конструкторе
     public Lion(String sex, Feline feline) throws Exception {
         this.feline = feline;
         if ("Самец".equals(sex)) {
